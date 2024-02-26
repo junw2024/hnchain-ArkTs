@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "hnchain_username",
+      "value":"手机号/邮箱地址/账号名"
+    },
+    {
+      "name": "hnchain_password",
+      "value":"密码"
+    },
+    {
+      "name": "hnchain_login",
+      "value": "登录"
+    },
+    {
+      "name": "hnchain_register",
+      "value": "注册"
+    },
+    {
+      "name": "hnchain_login_title",
+      "value": "返回"
+    },
+    {
+      "name": "problem_encountered",
+      "value": "遇见问题"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "隐私声明"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "product",
+      "value": "商品"
+    },
+    {
+      "name": "cart",
+      "value": "购物车"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    },
+    {
+      "name": "title_bar_classification",
+      "value": "分类"
+    }
+  ]
+}
