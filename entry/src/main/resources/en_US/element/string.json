@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "hnchain_username",
+      "value":"phone/email/acountname"
+    },
+    {
+      "name": "hnchain_password",
+      "value":"password"
+    },
+    {
+      "name": "hnchain_login",
+      "value": "Login"
+    },
+    {
+      "name": "hnchain_register",
+      "value": "Reister"
+    },
+    {
+      "name": "hnchain_login_title",
+      "value": "Back"
+    },
+    {
+      "name": "problem_encountered",
+      "value": "Problem encountered"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "Privacy statement"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "product",
+      "value": "Product"
+    },
+    {
+      "name": "cart",
+      "value": "Cart"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
+    },
+    {
+      "name": "title_bar_classification",
+      "value": "Class"
+    }
+  ]
+}

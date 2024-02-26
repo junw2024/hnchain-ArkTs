@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\70994\\.ohos\\config\\auto_debug_hnchain_com.haigoods.hnchain_70086000153673396.cer",
+          "storePassword": "0000001BD4DD6B7BE789012F5E4215B0B4F9CE3DDC6050D44147A16DB455705255D954FF189779883EF4E4",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BF616D16FEFFAFA3D6F32C55514BB22279FE23624A9DBA561CA68AFC7CC8F4A83D5D264920FD362",
+          "profile": "C:\\Users\\70994\\.ohos\\config\\auto_debug_hnchain_com.haigoods.hnchain_70086000153673396.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\70994\\.ohos\\config\\auto_debug_hnchain_com.haigoods.hnchain_70086000153673396.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
